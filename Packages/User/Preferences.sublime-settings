@@ -1,3 +1,17 @@
 {
-	"font_size": 9
+	"auto_match_enabled": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"font_size": 9,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"itg_scrollbar_small": true,
+	"itg_sidebar_tree_xsmall": true,
+	"itg_small_tabs": true,
+	"tab_size": 2,
+	"theme": "itg.flat.dark.green.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }

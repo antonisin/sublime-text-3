@@ -1,20 +1,25 @@
 {
 	"folder_history":
 	[
+		"/var/www/okedel",
+		"/etc/asterisk",
+		"/etc/asterisk/manager.d",
+		"/etc/apt/sources.list.d",
 		"/var/www/okedel/web",
 		"/var/www/okedel/vendor",
 		"/var/www/okedel/src",
+		"/var/www/okedel/sources",
 		"/var/www/okedel/db",
 		"/var/www/okedel/bin",
 		"/var/www/okedel/app",
 		"/home/mario/.oh-my-zsh"
 	],
 	"last_version": 3065,
-	"last_window_id": 4,
+	"last_window_id": 9,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 480.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -50,6 +55,124 @@
 			},
 			"file_history":
 			[
+				"/etc/asterisk/sip-primary-configure.conf",
+				"/etc/asterisk/extensions.conf",
+				"/etc/asterisk/sip.conf",
+				"/home/mario/mario/asterisk_bkp/sip.conf",
+				"/etc/asterisk/adsi.conf",
+				"/etc/asterisk/agents.conf",
+				"/etc/asterisk/ais.conf",
+				"/etc/asterisk/alarmreceiver.conf",
+				"/etc/asterisk/alsa.conf",
+				"/etc/asterisk/amd.conf",
+				"/etc/asterisk/app_mysql.conf",
+				"/etc/asterisk/asterisk.adsi",
+				"/etc/asterisk/asterisk.conf",
+				"/etc/asterisk/calendar.conf",
+				"/etc/asterisk/ccss.conf",
+				"/etc/asterisk/cdr_adaptive_odbc.conf",
+				"/etc/asterisk/cdr.conf",
+				"/etc/asterisk/cdr_custom.conf",
+				"/etc/asterisk/cdr_manager.conf",
+				"/etc/asterisk/cdr_mysql.conf",
+				"/etc/asterisk/cdr_odbc.conf",
+				"/etc/asterisk/cdr_pgsql.conf",
+				"/etc/asterisk/cdr_sqlite3_custom.conf",
+				"/etc/asterisk/cdr_syslog.conf",
+				"/etc/asterisk/cdr_tds.conf",
+				"/etc/asterisk/cel.conf",
+				"/etc/asterisk/cel_custom.conf",
+				"/etc/asterisk/cel_odbc.conf",
+				"/etc/asterisk/cel_pgsql.conf",
+				"/etc/asterisk/cel_sqlite3_custom.conf",
+				"/etc/asterisk/cel_tds.conf",
+				"/etc/asterisk/chan_dahdi.conf",
+				"/etc/asterisk/chan_mobile.conf",
+				"/etc/asterisk/chan_ooh323.conf",
+				"/etc/asterisk/cli_aliases.conf",
+				"/etc/asterisk/cli.conf",
+				"/etc/asterisk/cli_permissions.conf",
+				"/etc/asterisk/codecs.conf",
+				"/etc/asterisk/console.conf",
+				"/etc/asterisk/dbsep.conf",
+				"/etc/asterisk/dnsmgr.conf",
+				"/etc/asterisk/dsp.conf",
+				"/etc/asterisk/dundi.conf",
+				"/etc/asterisk/enum.conf",
+				"/etc/asterisk/extconfig.conf",
+				"/etc/asterisk/extensions.ael",
+				"/etc/asterisk/extensions.lua",
+				"/etc/asterisk/extensions_minivm.conf",
+				"/etc/asterisk/features.conf",
+				"/etc/asterisk/festival.conf",
+				"/etc/asterisk/followme.conf",
+				"/etc/asterisk/func_odbc.conf",
+				"/etc/asterisk/gtalk.conf",
+				"/etc/asterisk/h323.conf",
+				"/etc/asterisk/http.conf",
+				"/etc/asterisk/iax.conf",
+				"/etc/asterisk/iaxprov.conf",
+				"/etc/asterisk/indications.conf",
+				"/etc/asterisk/jabber.conf",
+				"/etc/asterisk/jingle.conf",
+				"/etc/asterisk/logger.conf",
+				"/etc/asterisk/manager.conf",
+				"/etc/asterisk/meetme.conf",
+				"/etc/asterisk/mgcp.conf",
+				"/etc/asterisk/minivm.conf",
+				"/etc/asterisk/misdn.conf",
+				"/etc/asterisk/modules.conf",
+				"/etc/asterisk/musiconhold.conf",
+				"/etc/asterisk/muted.conf",
+				"/etc/asterisk/osp.conf",
+				"/etc/asterisk/oss.conf",
+				"/etc/asterisk/phone.conf",
+				"/etc/asterisk/phoneprov.conf",
+				"/etc/asterisk/queuerules.conf",
+				"/etc/asterisk/queues.conf",
+				"/etc/asterisk/res_config_mysql.conf",
+				"/etc/asterisk/res_config_sqlite.conf",
+				"/etc/asterisk/res_curl.conf",
+				"/etc/asterisk/res_fax.conf",
+				"/etc/asterisk/res_ldap.conf",
+				"/etc/asterisk/res_odbc.conf",
+				"/etc/asterisk/res_pgsql.conf",
+				"/etc/asterisk/res_pktccops.conf",
+				"/etc/asterisk/res_snmp.conf",
+				"/etc/asterisk/res_stun_monitor.conf",
+				"/etc/asterisk/rpt.conf",
+				"/etc/asterisk/rtp.conf",
+				"/etc/asterisk/say.conf",
+				"/etc/asterisk/sip_notify.conf",
+				"/etc/asterisk/skinny.conf",
+				"/etc/asterisk/sla.conf",
+				"/etc/asterisk/smdi.conf",
+				"/etc/asterisk/telcordia-1.adsi",
+				"/etc/asterisk/udptl.conf",
+				"/etc/asterisk/unistim.conf",
+				"/etc/asterisk/usbradio.conf",
+				"/etc/asterisk/users.conf",
+				"/etc/asterisk/voicemail.conf",
+				"/etc/asterisk/vpb.conf",
+				"/usr/local/bin/cake",
+				"/usr/local/bin/coffee",
+				"/usr/local/bin/composer",
+				"/usr/local/bin/haml-coffee",
+				"/usr/local/bin/n",
+				"/usr/local/bin/node",
+				"/usr/local/bin/npm",
+				"/usr/local/bin/set-mon",
+				"/var/www/okedel/composer.json",
+				"/var/www/okedel/composer.lock",
+				"/var/www/okedel/LICENSE",
+				"/var/www/okedel/README.md",
+				"/var/www/okedel/UPGRADE-2.2.md",
+				"/var/www/okedel/UPGRADE-2.3.md",
+				"/var/www/okedel/UPGRADE-2.4.md",
+				"/var/www/okedel/UPGRADE.md",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/global.coffee",
+				"/root/.ssh/id_rsa.pub",
+				"/etc/apt/sources.list"
 			],
 			"find":
 			{
@@ -67,6 +190,31 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"sip_notify",
+					"sip_notify.conf",
+					"/etc/asterisk/sip_notify.conf",
+					"exte",
+					"inc",
+					"office",
+					"1001",
+					"default",
+					"mario",
+					"user1",
+					"user2",
+					"user1",
+					"context",
+					"allowguest",
+					"bindport",
+					"bindaddr",
+					"bindport",
+					"allowguest",
+					"context",
+					"http://md.archive.ubuntu.com/ubuntu precise-updates",
+					"http://md.archive.ubuntu.com/ precise-updates",
+					"http://md.archive.ubuntu.com/ precise-updates universe",
+					"http://md.archive.ubuntu.com precise-updates universe",
+					"http://md.archive.ubuntu.com precise-updates/universe",
+					"ubuntu.com/ubuntu",
 					"term",
 					"ter,",
 					"256"
@@ -86,7 +234,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 23.0
 			},
 			"input":
 			{
@@ -99,7 +247,7 @@
 			},
 			"replace":
 			{
-				"height": 46.0
+				"height": 42.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -130,13 +278,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 343.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -150,74 +298,10 @@
 			"buffers":
 			[
 				{
-					"file": "/var/www/okedel/composer.json",
+					"file": "/home/mario/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 3094,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/var/www/okedel/composer.lock",
-					"settings":
-					{
-						"buffer_size": 107687,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/var/www/okedel/LICENSE",
-					"settings":
-					{
-						"buffer_size": 1065,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/var/www/okedel/README.md",
-					"settings":
-					{
-						"buffer_size": 5843,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/var/www/okedel/UPGRADE-2.2.md",
-					"settings":
-					{
-						"buffer_size": 1308,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/var/www/okedel/UPGRADE-2.3.md",
-					"settings":
-					{
-						"buffer_size": 1962,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/var/www/okedel/UPGRADE-2.4.md",
-					"settings":
-					{
-						"buffer_size": 356,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/var/www/okedel/UPGRADE.md",
-					"settings":
-					{
-						"buffer_size": 8499,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/global.coffee",
-					"settings":
-					{
-						"buffer_size": 97,
+						"buffer_size": 418,
 						"line_ending": "Unix"
 					}
 				}
@@ -225,17 +309,42 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 210.0,
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal Key Bindings – Default"
+					],
+					[
+						"termi",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"termin",
+						"Preferences: Terminal Settings – Default"
+					]
 				],
-				"width": 0.0
+				"width": 601.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 126.0,
 				"history":
 				[
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -249,20 +358,141 @@
 			},
 			"expanded_folders":
 			[
-				"/var/www/okedel/src",
-				"/var/www/okedel/src/FW",
+				"/var/www/okedel",
 				"/var/www/okedel/src/FW/Air",
-				"/var/www/okedel/src/FW/AirBundle",
-				"/var/www/okedel/src/FW/AirBundle/Resources",
-				"/var/www/okedel/src/FW/AirBundle/Resources/config",
-				"/var/www/okedel/src/FW/AirBundle/Resources/doc",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public/js",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config",
-				"/var/www/okedel/web"
+				"/var/www/okedel/src/FW/Air/PublicBundle",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Controller"
 			],
 			"file_history":
 			[
+				"/var/www/okedel/src/FW/Air/PublicBundle/Controller/SubscriberController.php",
+				"/home/mario/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/mario/.config/sublime-text-3/Cache/Theme - Afterglow/Afterglow/Widget - Afterglow.stTheme.cache",
+				"/home/mario/.config/sublime-text-3/Installed Packages/Theme - Afterglow.sublime-package",
+				"/home/mario/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/mario/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/mario/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/var/www/okedel/vendor/apache/log4php/INSTALL",
+				"/var/www/okedel/vendor/symfony/symfony/src/Symfony/Component/Process/Tests/ProcessInSigchildEnvironment.php",
+				"/var/www/okedel/vendor/leafo/scssphp/tests/inputs/if_on_null.scss",
+				"/etc/asterisk/sip-primary-configure.conf",
+				"/etc/asterisk/extensions.conf",
+				"/etc/asterisk/sip.conf",
+				"/home/mario/mario/asterisk_bkp/sip.conf",
+				"/etc/asterisk/adsi.conf",
+				"/etc/asterisk/agents.conf",
+				"/etc/asterisk/ais.conf",
+				"/etc/asterisk/alarmreceiver.conf",
+				"/etc/asterisk/alsa.conf",
+				"/etc/asterisk/amd.conf",
+				"/etc/asterisk/app_mysql.conf",
+				"/etc/asterisk/asterisk.adsi",
+				"/etc/asterisk/asterisk.conf",
+				"/etc/asterisk/calendar.conf",
+				"/etc/asterisk/ccss.conf",
+				"/etc/asterisk/cdr_adaptive_odbc.conf",
+				"/etc/asterisk/cdr.conf",
+				"/etc/asterisk/cdr_custom.conf",
+				"/etc/asterisk/cdr_manager.conf",
+				"/etc/asterisk/cdr_mysql.conf",
+				"/etc/asterisk/cdr_odbc.conf",
+				"/etc/asterisk/cdr_pgsql.conf",
+				"/etc/asterisk/cdr_sqlite3_custom.conf",
+				"/etc/asterisk/cdr_syslog.conf",
+				"/etc/asterisk/cdr_tds.conf",
+				"/etc/asterisk/cel.conf",
+				"/etc/asterisk/cel_custom.conf",
+				"/etc/asterisk/cel_odbc.conf",
+				"/etc/asterisk/cel_pgsql.conf",
+				"/etc/asterisk/cel_sqlite3_custom.conf",
+				"/etc/asterisk/cel_tds.conf",
+				"/etc/asterisk/chan_dahdi.conf",
+				"/etc/asterisk/chan_mobile.conf",
+				"/etc/asterisk/chan_ooh323.conf",
+				"/etc/asterisk/cli_aliases.conf",
+				"/etc/asterisk/cli.conf",
+				"/etc/asterisk/cli_permissions.conf",
+				"/etc/asterisk/codecs.conf",
+				"/etc/asterisk/console.conf",
+				"/etc/asterisk/dbsep.conf",
+				"/etc/asterisk/dnsmgr.conf",
+				"/etc/asterisk/dsp.conf",
+				"/etc/asterisk/dundi.conf",
+				"/etc/asterisk/enum.conf",
+				"/etc/asterisk/extconfig.conf",
+				"/etc/asterisk/extensions.ael",
+				"/etc/asterisk/extensions.lua",
+				"/etc/asterisk/extensions_minivm.conf",
+				"/etc/asterisk/features.conf",
+				"/etc/asterisk/festival.conf",
+				"/etc/asterisk/followme.conf",
+				"/etc/asterisk/func_odbc.conf",
+				"/etc/asterisk/gtalk.conf",
+				"/etc/asterisk/h323.conf",
+				"/etc/asterisk/http.conf",
+				"/etc/asterisk/iax.conf",
+				"/etc/asterisk/iaxprov.conf",
+				"/etc/asterisk/indications.conf",
+				"/etc/asterisk/jabber.conf",
+				"/etc/asterisk/jingle.conf",
+				"/etc/asterisk/logger.conf",
+				"/etc/asterisk/manager.conf",
+				"/etc/asterisk/meetme.conf",
+				"/etc/asterisk/mgcp.conf",
+				"/etc/asterisk/minivm.conf",
+				"/etc/asterisk/misdn.conf",
+				"/etc/asterisk/modules.conf",
+				"/etc/asterisk/musiconhold.conf",
+				"/etc/asterisk/muted.conf",
+				"/etc/asterisk/osp.conf",
+				"/etc/asterisk/oss.conf",
+				"/etc/asterisk/phone.conf",
+				"/etc/asterisk/phoneprov.conf",
+				"/etc/asterisk/queuerules.conf",
+				"/etc/asterisk/queues.conf",
+				"/etc/asterisk/res_config_mysql.conf",
+				"/etc/asterisk/res_config_sqlite.conf",
+				"/etc/asterisk/res_curl.conf",
+				"/etc/asterisk/res_fax.conf",
+				"/etc/asterisk/res_ldap.conf",
+				"/etc/asterisk/res_odbc.conf",
+				"/etc/asterisk/res_pgsql.conf",
+				"/etc/asterisk/res_pktccops.conf",
+				"/etc/asterisk/res_snmp.conf",
+				"/etc/asterisk/res_stun_monitor.conf",
+				"/etc/asterisk/rpt.conf",
+				"/etc/asterisk/rtp.conf",
+				"/etc/asterisk/say.conf",
+				"/etc/asterisk/sip_notify.conf",
+				"/etc/asterisk/skinny.conf",
+				"/etc/asterisk/sla.conf",
+				"/etc/asterisk/smdi.conf",
+				"/etc/asterisk/telcordia-1.adsi",
+				"/etc/asterisk/udptl.conf",
+				"/etc/asterisk/unistim.conf",
+				"/etc/asterisk/usbradio.conf",
+				"/etc/asterisk/users.conf",
+				"/etc/asterisk/voicemail.conf",
+				"/etc/asterisk/vpb.conf",
+				"/usr/local/bin/cake",
+				"/usr/local/bin/coffee",
+				"/usr/local/bin/composer",
+				"/usr/local/bin/haml-coffee",
+				"/usr/local/bin/n",
+				"/usr/local/bin/node",
+				"/usr/local/bin/npm",
+				"/usr/local/bin/set-mon",
+				"/var/www/okedel/composer.json",
+				"/var/www/okedel/composer.lock",
+				"/var/www/okedel/LICENSE",
+				"/var/www/okedel/README.md",
+				"/var/www/okedel/UPGRADE-2.2.md",
+				"/var/www/okedel/UPGRADE-2.3.md",
+				"/var/www/okedel/UPGRADE-2.4.md",
+				"/var/www/okedel/UPGRADE.md",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/global.coffee",
+				"/root/.ssh/id_rsa.pub",
+				"/etc/apt/sources.list"
 			],
 			"find":
 			{
@@ -270,7 +500,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
 				]
@@ -280,6 +510,31 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"sip_notify",
+					"sip_notify.conf",
+					"/etc/asterisk/sip_notify.conf",
+					"exte",
+					"inc",
+					"office",
+					"1001",
+					"default",
+					"mario",
+					"user1",
+					"user2",
+					"user1",
+					"context",
+					"allowguest",
+					"bindport",
+					"bindaddr",
+					"bindport",
+					"allowguest",
+					"context",
+					"http://md.archive.ubuntu.com/ubuntu precise-updates",
+					"http://md.archive.ubuntu.com/ precise-updates",
+					"http://md.archive.ubuntu.com/ precise-updates universe",
+					"http://md.archive.ubuntu.com precise-updates universe",
+					"http://md.archive.ubuntu.com precise-updates/universe",
+					"ubuntu.com/ubuntu",
 					"term",
 					"ter,",
 					"256"
@@ -301,279 +556,140 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "/var/www/okedel/app"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "/var/www/okedel/bin"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "/var/www/okedel/db"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "/var/www/okedel/src"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "/var/www/okedel/vendor"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "/var/www/okedel/web"
+					"path": "/var/www/okedel"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 8,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/var/www/okedel/composer.json",
+							"file": "/home/mario/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3094,
+								"buffer_size": 418,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										31,
+										31
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/var/www/okedel/composer.lock",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 107687,
-								"regions":
-								{
-								},
-								"selection":
-								[
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
 									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/var/www/okedel/LICENSE",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1065,
-								"regions":
-								{
-								},
-								"selection":
-								[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
 									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/var/www/okedel/README.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5843,
-								"regions":
-								{
-								},
-								"selection":
-								[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
 									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/var/www/okedel/UPGRADE-2.2.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1308,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/var/www/okedel/UPGRADE-2.3.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1962,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/var/www/okedel/UPGRADE-2.4.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 356,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/var/www/okedel/UPGRADE.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8499,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/global.coffee",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 97,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										97,
-										97
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -620,7 +736,7 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,1,0,0,0,0,23,640,503,1366,768",
+			"position": "0,1,0,0,0,452,0,1092,480,2806,900",
 			"project": "",
 			"replace":
 			{
@@ -659,12 +775,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 343.0,
+			"side_bar_width": 207.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 4,
+			"window_id": 9,
 			"workspace_name": ""
 		}
 	],
