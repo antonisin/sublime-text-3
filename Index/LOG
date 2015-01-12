@@ -3,3 +3,13 @@
 2015/01/12-13:31:19.848783 7fcdcfb44740 Level-0 table #57: 282 bytes OK
 2015/01/12-13:31:19.983330 7fcdcfb44740 Delete type=3 #54
 2015/01/12-13:31:19.983447 7fcdcfb44740 Delete type=0 #55
+2015/01/12-14:23:32.683559 7fcd9ffff700 Compacting 3@0 + 2@1 files
+2015/01/12-14:23:33.118049 7fcd9ffff700 Generated table #59: 15821 keys, 2122377 bytes
+2015/01/12-14:23:33.350782 7fcd9ffff700 Generated table #60: 700 keys, 213918 bytes
+2015/01/12-14:23:33.350821 7fcd9ffff700 Compacted 3@0 + 2@1 files => 2336295 bytes
+2015/01/12-14:23:33.423549 7fcd9ffff700 compacted to: files[ 0 2 0 0 0 0 0 ]
+2015/01/12-14:23:33.423762 7fcd9ffff700 Delete type=2 #46
+2015/01/12-14:23:33.441984 7fcd9ffff700 Delete type=2 #44
+2015/01/12-14:23:33.442487 7fcd9ffff700 Delete type=2 #41
+2015/01/12-14:23:33.443020 7fcd9ffff700 Delete type=2 #42
+2015/01/12-14:23:33.443122 7fcd9ffff700 Delete type=2 #57
