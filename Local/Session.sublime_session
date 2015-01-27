@@ -1,8 +1,12 @@
 {
 	"folder_history":
 	[
-		"/var/www/okedel",
+		"/var/www/jangabanga",
+		"/var/www/guide",
+		"/var/www/asterisk",
 		"/etc/asterisk",
+		"/var/www/asterisk-droplet",
+		"/var/www/okedel",
 		"/etc/asterisk/manager.d",
 		"/etc/apt/sources.list.d",
 		"/var/www/okedel/web",
@@ -15,33 +19,114 @@
 		"/home/mario/.oh-my-zsh"
 	],
 	"last_version": 3065,
-	"last_window_id": 9,
+	"last_window_id": 31,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 745.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"var_",
+						"var_dump($prods"
+					],
+					[
+						"va",
+						"var_dump($prods"
+					],
+					[
+						"da",
+						"dates"
+					],
+					[
+						"getS",
+						"getSocket〔function〕"
+					],
+					[
+						"get",
+						"getSocket〔function〕"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"FWAir",
+						"FWAirBundle:MonitoringCategory"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"re",
+						"ret1	return true"
+					],
+					[
+						"Mon",
+						"MonitoringSubcategoriesCollection"
+					],
+					[
+						"monitoring",
+						"monitoring"
+					],
+					[
+						"Ca",
+						"MonitoringCategoriesCollection"
+					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 105.0,
 				"selected_items":
 				[
+					[
+						"vme",
+						"View: Toggle Menu"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal Key Bindings – Default"
+					],
+					[
+						"termi",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"termin",
+						"Preferences: Terminal Settings – Default"
+					]
 				],
-				"width": 0.0
+				"width": 601.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 126.0,
 				"history":
 				[
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -55,134 +140,149 @@
 			},
 			"file_history":
 			[
-				"/etc/asterisk/sip-primary-configure.conf",
-				"/etc/asterisk/extensions.conf",
-				"/etc/asterisk/sip.conf",
-				"/home/mario/mario/asterisk_bkp/sip.conf",
-				"/etc/asterisk/adsi.conf",
-				"/etc/asterisk/agents.conf",
-				"/etc/asterisk/ais.conf",
-				"/etc/asterisk/alarmreceiver.conf",
-				"/etc/asterisk/alsa.conf",
-				"/etc/asterisk/amd.conf",
-				"/etc/asterisk/app_mysql.conf",
-				"/etc/asterisk/asterisk.adsi",
-				"/etc/asterisk/asterisk.conf",
-				"/etc/asterisk/calendar.conf",
-				"/etc/asterisk/ccss.conf",
-				"/etc/asterisk/cdr_adaptive_odbc.conf",
-				"/etc/asterisk/cdr.conf",
-				"/etc/asterisk/cdr_custom.conf",
-				"/etc/asterisk/cdr_manager.conf",
-				"/etc/asterisk/cdr_mysql.conf",
-				"/etc/asterisk/cdr_odbc.conf",
-				"/etc/asterisk/cdr_pgsql.conf",
-				"/etc/asterisk/cdr_sqlite3_custom.conf",
-				"/etc/asterisk/cdr_syslog.conf",
-				"/etc/asterisk/cdr_tds.conf",
-				"/etc/asterisk/cel.conf",
-				"/etc/asterisk/cel_custom.conf",
-				"/etc/asterisk/cel_odbc.conf",
-				"/etc/asterisk/cel_pgsql.conf",
-				"/etc/asterisk/cel_sqlite3_custom.conf",
-				"/etc/asterisk/cel_tds.conf",
-				"/etc/asterisk/chan_dahdi.conf",
-				"/etc/asterisk/chan_mobile.conf",
-				"/etc/asterisk/chan_ooh323.conf",
-				"/etc/asterisk/cli_aliases.conf",
-				"/etc/asterisk/cli.conf",
-				"/etc/asterisk/cli_permissions.conf",
-				"/etc/asterisk/codecs.conf",
-				"/etc/asterisk/console.conf",
-				"/etc/asterisk/dbsep.conf",
-				"/etc/asterisk/dnsmgr.conf",
-				"/etc/asterisk/dsp.conf",
-				"/etc/asterisk/dundi.conf",
-				"/etc/asterisk/enum.conf",
-				"/etc/asterisk/extconfig.conf",
-				"/etc/asterisk/extensions.ael",
-				"/etc/asterisk/extensions.lua",
-				"/etc/asterisk/extensions_minivm.conf",
-				"/etc/asterisk/features.conf",
-				"/etc/asterisk/festival.conf",
-				"/etc/asterisk/followme.conf",
-				"/etc/asterisk/func_odbc.conf",
-				"/etc/asterisk/gtalk.conf",
-				"/etc/asterisk/h323.conf",
-				"/etc/asterisk/http.conf",
-				"/etc/asterisk/iax.conf",
-				"/etc/asterisk/iaxprov.conf",
-				"/etc/asterisk/indications.conf",
-				"/etc/asterisk/jabber.conf",
-				"/etc/asterisk/jingle.conf",
-				"/etc/asterisk/logger.conf",
-				"/etc/asterisk/manager.conf",
-				"/etc/asterisk/meetme.conf",
-				"/etc/asterisk/mgcp.conf",
-				"/etc/asterisk/minivm.conf",
-				"/etc/asterisk/misdn.conf",
-				"/etc/asterisk/modules.conf",
-				"/etc/asterisk/musiconhold.conf",
-				"/etc/asterisk/muted.conf",
-				"/etc/asterisk/osp.conf",
-				"/etc/asterisk/oss.conf",
-				"/etc/asterisk/phone.conf",
-				"/etc/asterisk/phoneprov.conf",
-				"/etc/asterisk/queuerules.conf",
-				"/etc/asterisk/queues.conf",
-				"/etc/asterisk/res_config_mysql.conf",
-				"/etc/asterisk/res_config_sqlite.conf",
-				"/etc/asterisk/res_curl.conf",
-				"/etc/asterisk/res_fax.conf",
-				"/etc/asterisk/res_ldap.conf",
-				"/etc/asterisk/res_odbc.conf",
-				"/etc/asterisk/res_pgsql.conf",
-				"/etc/asterisk/res_pktccops.conf",
-				"/etc/asterisk/res_snmp.conf",
-				"/etc/asterisk/res_stun_monitor.conf",
-				"/etc/asterisk/rpt.conf",
-				"/etc/asterisk/rtp.conf",
-				"/etc/asterisk/say.conf",
-				"/etc/asterisk/sip_notify.conf",
-				"/etc/asterisk/skinny.conf",
-				"/etc/asterisk/sla.conf",
-				"/etc/asterisk/smdi.conf",
-				"/etc/asterisk/telcordia-1.adsi",
-				"/etc/asterisk/udptl.conf",
-				"/etc/asterisk/unistim.conf",
-				"/etc/asterisk/usbradio.conf",
-				"/etc/asterisk/users.conf",
-				"/etc/asterisk/voicemail.conf",
-				"/etc/asterisk/vpb.conf",
-				"/usr/local/bin/cake",
-				"/usr/local/bin/coffee",
-				"/usr/local/bin/composer",
-				"/usr/local/bin/haml-coffee",
-				"/usr/local/bin/n",
-				"/usr/local/bin/node",
-				"/usr/local/bin/npm",
-				"/usr/local/bin/set-mon",
-				"/var/www/okedel/composer.json",
-				"/var/www/okedel/composer.lock",
+				"/var/www/guide/vendor/silex/silex/doc/phar.rst",
+				"/var/www/guide/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/PdoSessionHandler.php",
+				"/var/www/guide/vendor/pimple/pimple/phpunit.xml.dist",
+				"/var/www/guide/vendor/pimple/pimple/.gitignore",
+				"/var/www/guide/composer.lock",
+				"/var/www/jangabanga/composer.json",
+				"/var/www/jangabanga/app/themes/default/colorbox_old.css",
+				"/var/www/jangabanga/materials/verstka/graphics.html",
+				"/var/www/jangabanga/vendor/aws/aws-sdk-php/build/gh-release.php",
+				"/var/www/jangabanga/app/controllers/guide.php",
+				"/home/mario/.ssh/known_hosts",
+				"/usr/local/bin/droplet",
+				"/var/www/asterisk-droplet/res_odbc.conf",
+				"/var/www/asterisk-droplet/manager.conf",
+				"/etc/odbc.ini",
+				"/var/www/asterisk-droplet/http.conf",
+				"/var/www/asterisk-droplet/cel_custom.conf",
+				"/var/www/asterisk-droplet/cel.conf",
+				"/var/www/asterisk-droplet/asterisk.conf",
+				"/var/www/asterisk-droplet/adsi.conf",
+				"/var/www/asterisk-droplet/sftp-config.json",
+				"/var/www/asterisk-droplet/sip-primary-configure.conf",
+				"/var/log/asterisk/messages",
+				"/var/www/asterisk-droplet/sip.conf",
+				"/tmp/sublime-sftp-browse-1421938214/mapped/etc/odbcinst.ini",
+				"/tmp/sublime-sftp-browse-1421938195/mapped/etc/odbc.ini",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/user/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landingDirections/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landing/add/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/main/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/location/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/airplaneType/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/consolidator/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/country/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/foodType/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/offerComment/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/offerLabel/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/cityCode/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/phone/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/referal/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/change/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/user/profile/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/core/base_controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/user/thankyou/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/subscriber/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/client/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/setting/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/utils/utils/loading.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/footer/lid/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/view/controller.coffee",
+				"/home/mario/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/offer/list_controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/view/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/utils/utils/lang.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/offer/new_controller.coffee",
+				"/var/www/okedel/vendor/apache/log4php/src/main/php/LoggerAppender.php",
 				"/var/www/okedel/LICENSE",
-				"/var/www/okedel/README.md",
-				"/var/www/okedel/UPGRADE-2.2.md",
-				"/var/www/okedel/UPGRADE-2.3.md",
-				"/var/www/okedel/UPGRADE-2.4.md",
-				"/var/www/okedel/UPGRADE.md",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/global.coffee",
-				"/root/.ssh/id_rsa.pub",
-				"/etc/apt/sources.list"
+				"/var/www/okedel/web/bundles/fwairpublic/css/styles/_dev.scss",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/public/css/styles/public.scss",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/_base.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/change/layout.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/change/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/setting.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/history.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/flight.coffee",
+				"/var/www/okedel/web/assetic/js_air_backbone_entities_part_2_adminmenu_1",
+				"/var/www/okedel/web/bundles/fwair/js/assets/backbone-validation-min.js",
+				"/var/www/okedel/web/bundles/fwair/js/assets/2-cocktail.js",
+				"/var/www/okedel/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/KeyCache/ArrayKeyCacheAcceptanceTest.php",
+				"/var/www/okedel/vendor/doctrine/orm/lib/Doctrine/ORM/Query/TreeWalkerAdapter.php",
+				"/var/www/okedel/vendor/doctrine/orm/docs/en/cookbook/implementing-wakeup-or-clone.rst",
+				"/var/www/okedel/vendor/doctrine/orm/docs/en/reference/working-with-associations.rst",
+				"/var/www/okedel/vendor/components/bootstrap/less/wells.less",
+				"/var/www/okedel/src/FW/Air/PublicBundle/EventListener/StatisticListener.php",
+				"/var/www/okedel/src/FW/AirBundle/Controller/MonitoringController.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/empty.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/empty.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/change/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Lang/Lang_RU.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Landing.php",
+				"/var/www/okedel/vendor/kriswallsmith/assetic/src/Assetic/Factory/LazyAssetManager.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/backbone/validation.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/app.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/monitoring.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/MonitoringSubcategory.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/MonitoringCategory.php",
+				"/var/www/okedel/db/max-OfferCollor.sql",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/lid.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/change.hamlc",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Entity/CityCode.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/LandingItem.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Translation/LocationTranslation.php",
+				"/var/www/okedel/app/cache/dev/assetic/assets/f81387969fe2e9a21b48d10fc00a3cf5",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/views/Default/landing.html.haml",
+				"/var/www/okedel/src/FW/AirBundle/Resources/config/assets.yml",
+				"/var/www/okedel/web/assetic/js_air_spec",
+				"/etc/apt/sources.list",
+				"/var/www/html/rezervare.php",
+				"/home/mario/rezervare.html",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/abstract/adminmenu.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Lid.php~",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit/item.hamlc",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/config/assets.yml",
+				"/var/www/okedel/app/config/assetic.yml",
+				"/var/www/okedel/vendor/apache/log4php/src/examples/php/appender_socket_server.php",
+				"/var/www/okedel/app/autoload.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Country.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/_temp/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/_temp/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landing/edit/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit/layout.hamlc"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 23.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
+					"/var/www/jangabanga/",
+					"/var/www/asterisk-droplet",
+					"/var/www/okedel/src/",
+					"/var/www/okedel/src",
+					"/var/www/okedel"
 				]
 			},
 			"find_state":
@@ -190,6 +290,98 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"jangabanga",
+					"chart2",
+					"head",
+					"var_dump($prods",
+					"deta",
+					"pageviews",
+					"data['dates']",
+					"pageviews",
+					"Comparison_from",
+					"Comparison",
+					"Comparison from category",
+					"c1",
+					"lis",
+					"pee",
+					"si",
+					"sip",
+					"permit",
+					"192.168",
+					"127.0.0.1",
+					"localhost",
+					"setPort",
+					"Method set",
+					"Method get",
+					"\n     ",
+					"timeout",
+					"Timeout",
+					"timeout",
+					"Timeout",
+					"timeout",
+					"View",
+					"view",
+					" model.save",
+					"user:profile:thanks:fetch",
+					"loadingDialog",
+					"argumnets",
+					"LoadingController",
+					"error",
+					"Net",
+					"booking:offers:add",
+					"offer:add",
+					"offer-add",
+					"and",
+					"then return",
+					"footer:lid:send:offers",
+					"click:send:offers",
+					"send-offers",
+					".board_box .board_direct table .center",
+					".notClick",
+					"not(",
+					"Subcategory",
+					"subcategory",
+					"del",
+					"destr",
+					"usere",
+					"удал",
+					"@model",
+					"newMonitoringCategory",
+					"данн",
+					"данные",
+					"sale:create:error:morethanoneselected",
+					"notify:error",
+					"model",
+					"admin:monitoring:subcategories:collection",
+					"admin:monitoring:subcategory:model",
+					"admin:monitoring:subcategory:add'",
+					"admin:monitoring:subcategory:add",
+					"admin:monitoring:subcategory:model",
+					"categoryModel",
+					"onetomany",
+					"localizeddate",
+					"Отзыв успешно добавлен",
+					"EditCategory",
+					"Edit",
+					"EditCategory",
+					"Category",
+					"EditCategory",
+					"editCategory",
+					"Subcategory",
+					"MonitoringCategory",
+					"Category",
+					"EditCategory",
+					"CategoryEdit",
+					"Edit",
+					"Category",
+					"model",
+					"List",
+					"Country",
+					"Role",
+					"List",
+					"Category",
+					"category",
+					"categories",
 					"sip_notify",
 					"sip_notify.conf",
 					"/etc/asterisk/sip_notify.conf",
@@ -238,12 +430,20 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 32.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 98.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 98.0
 			},
 			"replace":
 			{
@@ -255,6 +455,34 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"compa",
+						"app/views/products/compare.php"
+					],
+					[
+						"gra",
+						"app/views/products/graph.php"
+					],
+					[
+						"lang",
+						"modules/utils/utils/lang.coffee"
+					],
+					[
+						"_de",
+						"okedel/web/bundles/fwairpublic/css/styles/_dev.scss"
+					],
+					[
+						"",
+						"modules/utils/utils/lang.coffee"
+					],
+					[
+						"monitor",
+						"AirBundle/Controller/MonitoringController.php"
+					],
+					[
+						"asse",
+						"AirBundle/Resources/config/assets.yml"
+					]
 				],
 				"width": 0.0
 			},
@@ -274,17 +502,17 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 343.0,
-			"status_bar_visible": true,
+			"side_bar_width": 207.0,
+			"status_bar_visible": false,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 682.0
 	},
 	"windows":
 	[
@@ -293,28 +521,130 @@
 			{
 				"selected_items":
 				[
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"var_",
+						"var_dump($prods"
+					],
+					[
+						"va",
+						"var_dump($prods"
+					],
+					[
+						"da",
+						"dates"
+					],
+					[
+						"getS",
+						"getSocket〔function〕"
+					],
+					[
+						"get",
+						"getSocket〔function〕"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"FWAir",
+						"FWAirBundle:MonitoringCategory"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"re",
+						"ret1	return true"
+					],
+					[
+						"Mon",
+						"MonitoringSubcategoriesCollection"
+					],
+					[
+						"monitoring",
+						"monitoring"
+					],
+					[
+						"Ca",
+						"MonitoringCategoriesCollection"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/mario/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"file": "/var/www/jangabanga/app/views/products/graph.php",
 					"settings":
 					{
-						"buffer_size": 418,
+						"buffer_size": 2411,
 						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "         \n // <div style = 'float: right; margin-top: -18px;'>\n          //   <select id = 'grathSelect' style = 'width: 150px;'>\n          //     <option value = '#chart_1'>1 week</option>\n          //     <option value = '#chart_2'>1 month</option>\n          //     <option value = '#chart_3'>3 months</option>\n          //   </select>\n          // </div>",
+					"settings":
+					{
+						"buffer_size": 357,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/www/jangabanga/app/controllers/products.php",
+					"settings":
+					{
+						"buffer_size": 51729,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/var/www/jangabanga/app/includes/js/init.js",
+					"settings":
+					{
+						"buffer_size": 12262,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/www/jangabanga/app/includes/js/site.js",
+					"settings":
+					{
+						"buffer_size": 32889,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 4559 files for \"chart_2\"\n\n/var/www/jangabanga/app/includes/js/init.js:\n  336                }\n  337                // charts('#chart_1', pageviews, pageViewsTicks);\n  338:               charts('#chart_2', pageviews, pageViewsTicks);\n  339                // charts('#chart_3', pageviews, pageViewsTicks);\n  340              }\n\n/var/www/jangabanga/app/includes/js/site.js:\n  344                  }\n  345              charts('#chart_1', pageviews, pageViewsTicks);\n  346:               // charts('#chart_2', pageviews, pageViewsTicks);\n  347                // charts('#chart_3', pageviews, pageViewsTicks);\n  348              }\n\n/var/www/jangabanga/app/themes/default/main.css:\n 2589      left: -4px;\n 2590  }\n 2591: #chart_2{\n 2592      padding:40px;\n 2593      margin: 0 auto;\n 2594  }\n 2595: #chart_2 .flot-y-axis{\n 2596      left: -7px !important;\n 2597  }\n\n/var/www/jangabanga/app/views/products/graph.php:\n   34  	echo \"	</div>\"; ?>\n   35    <div id=\"chart_1\" class = 'chart'></div>\n   36:   <div id=\"chart_2\" class = 'chart'></div>\n   37  	<div id=\"chart_3\" class = 'chart'></div>\n   38  	<script type=\"text/javascript\">\n\n5 matches across 4 files\n",
+					"settings":
+					{
+						"buffer_size": 1161,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/var/www/jangabanga/app/themes/default/main.css",
+					"settings":
+					{
+						"buffer_size": 62424,
+						"line_ending": "Windows"
 					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 210.0,
+				"height": 105.0,
 				"selected_items":
 				[
 					[
-						"install",
-						"Package Control: Install Package"
+						"vme",
+						"View: Toggle Menu"
 					],
 					[
 						"insta",
@@ -323,6 +653,14 @@
 					[
 						"ins",
 						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Status"
 					],
 					[
 						"terminal",
@@ -358,151 +696,153 @@
 			},
 			"expanded_folders":
 			[
-				"/var/www/okedel",
-				"/var/www/okedel/src/FW/Air",
-				"/var/www/okedel/src/FW/Air/PublicBundle",
-				"/var/www/okedel/src/FW/Air/PublicBundle/Controller"
+				"/var/www/jangabanga"
 			],
 			"file_history":
 			[
-				"/var/www/okedel/src/FW/Air/PublicBundle/Controller/SubscriberController.php",
+				"/var/www/jangabanga/app/controllers/productimages.php",
+				"/var/www/jangabanga/vendor/aws/aws-sdk-php/src/Aws/Route53Domains/Route53DomainsClient.php",
+				"/var/www/jangabanga/vendor/smottt/wideimage/phpcs-ruleset.xml",
+				"/var/www/jangabanga/spherus_framework/paths.php",
+				"/var/www/jangabanga/vendor/aws/aws-sdk-php/src/Aws/Ec2/Enum/SpotInstanceType.php",
+				"/var/www/jangabanga/vendor/aws/aws-sdk-php/docs/service-iam.rst",
+				"/var/www/jangabanga/spanel.php",
+				"/var/www/jangabanga/app/ini.php",
+				"/var/www/jangabanga/index.php",
+				"/var/www/guide/vendor/silex/silex/doc/phar.rst",
+				"/var/www/guide/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/PdoSessionHandler.php",
+				"/var/www/guide/vendor/pimple/pimple/phpunit.xml.dist",
+				"/var/www/guide/vendor/pimple/pimple/.gitignore",
+				"/var/www/guide/composer.lock",
+				"/var/www/jangabanga/composer.json",
+				"/var/www/jangabanga/app/themes/default/colorbox_old.css",
+				"/var/www/jangabanga/materials/verstka/graphics.html",
+				"/var/www/jangabanga/vendor/aws/aws-sdk-php/build/gh-release.php",
+				"/var/www/jangabanga/app/controllers/guide.php",
+				"/home/mario/.ssh/known_hosts",
+				"/usr/local/bin/droplet",
+				"/var/www/asterisk-droplet/res_odbc.conf",
+				"/var/www/asterisk-droplet/manager.conf",
+				"/etc/odbc.ini",
+				"/var/www/asterisk-droplet/http.conf",
+				"/var/www/asterisk-droplet/cel_custom.conf",
+				"/var/www/asterisk-droplet/cel.conf",
+				"/var/www/asterisk-droplet/asterisk.conf",
+				"/var/www/asterisk-droplet/adsi.conf",
+				"/var/www/asterisk-droplet/sftp-config.json",
+				"/var/www/asterisk-droplet/sip-primary-configure.conf",
+				"/var/log/asterisk/messages",
+				"/var/www/asterisk-droplet/sip.conf",
+				"/tmp/sublime-sftp-browse-1421938214/mapped/etc/odbcinst.ini",
+				"/tmp/sublime-sftp-browse-1421938195/mapped/etc/odbc.ini",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/user/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landingDirections/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landing/add/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/main/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/location/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/airplaneType/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/consolidator/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/country/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/foodType/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/offerComment/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/offerLabel/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/cityCode/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/phone/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/referal/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/change/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/user/profile/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/core/base_controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/user/thankyou/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/subscriber/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/client/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/setting/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/utils/utils/loading.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/footer/lid/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/view/controller.coffee",
 				"/home/mario/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/mario/.config/sublime-text-3/Cache/Theme - Afterglow/Afterglow/Widget - Afterglow.stTheme.cache",
-				"/home/mario/.config/sublime-text-3/Installed Packages/Theme - Afterglow.sublime-package",
-				"/home/mario/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
-				"/home/mario/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
-				"/home/mario/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/var/www/okedel/vendor/apache/log4php/INSTALL",
-				"/var/www/okedel/vendor/symfony/symfony/src/Symfony/Component/Process/Tests/ProcessInSigchildEnvironment.php",
-				"/var/www/okedel/vendor/leafo/scssphp/tests/inputs/if_on_null.scss",
-				"/etc/asterisk/sip-primary-configure.conf",
-				"/etc/asterisk/extensions.conf",
-				"/etc/asterisk/sip.conf",
-				"/home/mario/mario/asterisk_bkp/sip.conf",
-				"/etc/asterisk/adsi.conf",
-				"/etc/asterisk/agents.conf",
-				"/etc/asterisk/ais.conf",
-				"/etc/asterisk/alarmreceiver.conf",
-				"/etc/asterisk/alsa.conf",
-				"/etc/asterisk/amd.conf",
-				"/etc/asterisk/app_mysql.conf",
-				"/etc/asterisk/asterisk.adsi",
-				"/etc/asterisk/asterisk.conf",
-				"/etc/asterisk/calendar.conf",
-				"/etc/asterisk/ccss.conf",
-				"/etc/asterisk/cdr_adaptive_odbc.conf",
-				"/etc/asterisk/cdr.conf",
-				"/etc/asterisk/cdr_custom.conf",
-				"/etc/asterisk/cdr_manager.conf",
-				"/etc/asterisk/cdr_mysql.conf",
-				"/etc/asterisk/cdr_odbc.conf",
-				"/etc/asterisk/cdr_pgsql.conf",
-				"/etc/asterisk/cdr_sqlite3_custom.conf",
-				"/etc/asterisk/cdr_syslog.conf",
-				"/etc/asterisk/cdr_tds.conf",
-				"/etc/asterisk/cel.conf",
-				"/etc/asterisk/cel_custom.conf",
-				"/etc/asterisk/cel_odbc.conf",
-				"/etc/asterisk/cel_pgsql.conf",
-				"/etc/asterisk/cel_sqlite3_custom.conf",
-				"/etc/asterisk/cel_tds.conf",
-				"/etc/asterisk/chan_dahdi.conf",
-				"/etc/asterisk/chan_mobile.conf",
-				"/etc/asterisk/chan_ooh323.conf",
-				"/etc/asterisk/cli_aliases.conf",
-				"/etc/asterisk/cli.conf",
-				"/etc/asterisk/cli_permissions.conf",
-				"/etc/asterisk/codecs.conf",
-				"/etc/asterisk/console.conf",
-				"/etc/asterisk/dbsep.conf",
-				"/etc/asterisk/dnsmgr.conf",
-				"/etc/asterisk/dsp.conf",
-				"/etc/asterisk/dundi.conf",
-				"/etc/asterisk/enum.conf",
-				"/etc/asterisk/extconfig.conf",
-				"/etc/asterisk/extensions.ael",
-				"/etc/asterisk/extensions.lua",
-				"/etc/asterisk/extensions_minivm.conf",
-				"/etc/asterisk/features.conf",
-				"/etc/asterisk/festival.conf",
-				"/etc/asterisk/followme.conf",
-				"/etc/asterisk/func_odbc.conf",
-				"/etc/asterisk/gtalk.conf",
-				"/etc/asterisk/h323.conf",
-				"/etc/asterisk/http.conf",
-				"/etc/asterisk/iax.conf",
-				"/etc/asterisk/iaxprov.conf",
-				"/etc/asterisk/indications.conf",
-				"/etc/asterisk/jabber.conf",
-				"/etc/asterisk/jingle.conf",
-				"/etc/asterisk/logger.conf",
-				"/etc/asterisk/manager.conf",
-				"/etc/asterisk/meetme.conf",
-				"/etc/asterisk/mgcp.conf",
-				"/etc/asterisk/minivm.conf",
-				"/etc/asterisk/misdn.conf",
-				"/etc/asterisk/modules.conf",
-				"/etc/asterisk/musiconhold.conf",
-				"/etc/asterisk/muted.conf",
-				"/etc/asterisk/osp.conf",
-				"/etc/asterisk/oss.conf",
-				"/etc/asterisk/phone.conf",
-				"/etc/asterisk/phoneprov.conf",
-				"/etc/asterisk/queuerules.conf",
-				"/etc/asterisk/queues.conf",
-				"/etc/asterisk/res_config_mysql.conf",
-				"/etc/asterisk/res_config_sqlite.conf",
-				"/etc/asterisk/res_curl.conf",
-				"/etc/asterisk/res_fax.conf",
-				"/etc/asterisk/res_ldap.conf",
-				"/etc/asterisk/res_odbc.conf",
-				"/etc/asterisk/res_pgsql.conf",
-				"/etc/asterisk/res_pktccops.conf",
-				"/etc/asterisk/res_snmp.conf",
-				"/etc/asterisk/res_stun_monitor.conf",
-				"/etc/asterisk/rpt.conf",
-				"/etc/asterisk/rtp.conf",
-				"/etc/asterisk/say.conf",
-				"/etc/asterisk/sip_notify.conf",
-				"/etc/asterisk/skinny.conf",
-				"/etc/asterisk/sla.conf",
-				"/etc/asterisk/smdi.conf",
-				"/etc/asterisk/telcordia-1.adsi",
-				"/etc/asterisk/udptl.conf",
-				"/etc/asterisk/unistim.conf",
-				"/etc/asterisk/usbradio.conf",
-				"/etc/asterisk/users.conf",
-				"/etc/asterisk/voicemail.conf",
-				"/etc/asterisk/vpb.conf",
-				"/usr/local/bin/cake",
-				"/usr/local/bin/coffee",
-				"/usr/local/bin/composer",
-				"/usr/local/bin/haml-coffee",
-				"/usr/local/bin/n",
-				"/usr/local/bin/node",
-				"/usr/local/bin/npm",
-				"/usr/local/bin/set-mon",
-				"/var/www/okedel/composer.json",
-				"/var/www/okedel/composer.lock",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/offer/list_controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/view/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/utils/utils/lang.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/offer/new_controller.coffee",
+				"/var/www/okedel/vendor/apache/log4php/src/main/php/LoggerAppender.php",
 				"/var/www/okedel/LICENSE",
-				"/var/www/okedel/README.md",
-				"/var/www/okedel/UPGRADE-2.2.md",
-				"/var/www/okedel/UPGRADE-2.3.md",
-				"/var/www/okedel/UPGRADE-2.4.md",
-				"/var/www/okedel/UPGRADE.md",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/global.coffee",
-				"/root/.ssh/id_rsa.pub",
-				"/etc/apt/sources.list"
+				"/var/www/okedel/web/bundles/fwairpublic/css/styles/_dev.scss",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/public/css/styles/public.scss",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/_base.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/change/layout.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/change/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/setting.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/history.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/flight.coffee",
+				"/var/www/okedel/web/assetic/js_air_backbone_entities_part_2_adminmenu_1",
+				"/var/www/okedel/web/bundles/fwair/js/assets/backbone-validation-min.js",
+				"/var/www/okedel/web/bundles/fwair/js/assets/2-cocktail.js",
+				"/var/www/okedel/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/KeyCache/ArrayKeyCacheAcceptanceTest.php",
+				"/var/www/okedel/vendor/doctrine/orm/lib/Doctrine/ORM/Query/TreeWalkerAdapter.php",
+				"/var/www/okedel/vendor/doctrine/orm/docs/en/cookbook/implementing-wakeup-or-clone.rst",
+				"/var/www/okedel/vendor/doctrine/orm/docs/en/reference/working-with-associations.rst",
+				"/var/www/okedel/vendor/components/bootstrap/less/wells.less",
+				"/var/www/okedel/src/FW/Air/PublicBundle/EventListener/StatisticListener.php",
+				"/var/www/okedel/src/FW/AirBundle/Controller/MonitoringController.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/empty.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/empty.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/change/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Lang/Lang_RU.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Landing.php",
+				"/var/www/okedel/vendor/kriswallsmith/assetic/src/Assetic/Factory/LazyAssetManager.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/backbone/validation.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/app.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/monitoring.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/MonitoringSubcategory.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/MonitoringCategory.php",
+				"/var/www/okedel/db/max-OfferCollor.sql",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/lid.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/change.hamlc",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Entity/CityCode.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/LandingItem.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Translation/LocationTranslation.php",
+				"/var/www/okedel/app/cache/dev/assetic/assets/f81387969fe2e9a21b48d10fc00a3cf5",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/views/Default/landing.html.haml",
+				"/var/www/okedel/src/FW/AirBundle/Resources/config/assets.yml",
+				"/var/www/okedel/web/assetic/js_air_spec",
+				"/etc/apt/sources.list",
+				"/var/www/html/rezervare.php",
+				"/home/mario/rezervare.html",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/abstract/adminmenu.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Lid.php~",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit/item.hamlc",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/config/assets.yml",
+				"/var/www/okedel/app/config/assetic.yml"
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
 				"height": 93.0,
 				"where_history":
 				[
+					"/var/www/jangabanga/",
+					"/var/www/asterisk-droplet",
+					"/var/www/okedel/src/",
+					"/var/www/okedel/src",
+					"/var/www/okedel"
 				]
 			},
 			"find_state":
@@ -510,6 +850,104 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\"",
+					"var",
+					"pageViews",
+					"pageviews",
+					"randValue",
+					"chart_2",
+					"jangabanga",
+					"chart2",
+					"head",
+					"var_dump($prods",
+					"deta",
+					"pageviews",
+					"data['dates']",
+					"pageviews",
+					"Comparison_from",
+					"Comparison",
+					"Comparison from category",
+					"c1",
+					"lis",
+					"pee",
+					"si",
+					"sip",
+					"permit",
+					"192.168",
+					"127.0.0.1",
+					"localhost",
+					"setPort",
+					"Method set",
+					"Method get",
+					"\n     ",
+					"timeout",
+					"Timeout",
+					"timeout",
+					"Timeout",
+					"timeout",
+					"View",
+					"view",
+					" model.save",
+					"user:profile:thanks:fetch",
+					"loadingDialog",
+					"argumnets",
+					"LoadingController",
+					"error",
+					"Net",
+					"booking:offers:add",
+					"offer:add",
+					"offer-add",
+					"and",
+					"then return",
+					"footer:lid:send:offers",
+					"click:send:offers",
+					"send-offers",
+					".board_box .board_direct table .center",
+					".notClick",
+					"not(",
+					"Subcategory",
+					"subcategory",
+					"del",
+					"destr",
+					"usere",
+					"удал",
+					"@model",
+					"newMonitoringCategory",
+					"данн",
+					"данные",
+					"sale:create:error:morethanoneselected",
+					"notify:error",
+					"model",
+					"admin:monitoring:subcategories:collection",
+					"admin:monitoring:subcategory:model",
+					"admin:monitoring:subcategory:add'",
+					"admin:monitoring:subcategory:add",
+					"admin:monitoring:subcategory:model",
+					"categoryModel",
+					"onetomany",
+					"localizeddate",
+					"Отзыв успешно добавлен",
+					"EditCategory",
+					"Edit",
+					"EditCategory",
+					"Category",
+					"EditCategory",
+					"editCategory",
+					"Subcategory",
+					"MonitoringCategory",
+					"Category",
+					"EditCategory",
+					"CategoryEdit",
+					"Edit",
+					"Category",
+					"model",
+					"List",
+					"Country",
+					"Role",
+					"List",
+					"Category",
+					"category",
+					"categories",
 					"sip_notify",
 					"sip_notify.conf",
 					"/etc/asterisk/sip_notify.conf",
@@ -556,130 +994,174 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "/var/www/okedel"
+					"path": "/var/www/jangabanga"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/mario/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+							"file": "/var/www/jangabanga/app/views/products/graph.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 418,
+								"buffer_size": 2411,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										31,
-										31
+										824,
+										824
 									]
 								],
 								"settings":
 								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
 									"codeintel": true,
-									"codeintel_config":
+									"codeintel_database_dir": "~/.codeintel",
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Node.js",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_exclude_scopes_from_complete_triggers":
+									[
+										"comment"
+									],
+									"codeintel_language_settings":
 									{
 										"JavaScript":
 										{
 											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
+											"codeintel_scan_exclude_dir":
 											[
+												"/build/",
+												"/min/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": false,
+											"codeintel_selected_catalogs":
+											[
+												"jQuery"
 											]
 										},
 										"PHP":
 										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
+											"codeintel_max_recursive_dir_depth": 15,
+											"codeintel_scan_exclude_dir":
 											[
-											]
+												"/Applications/MAMP/bin/php/php5.5.3/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": true,
+											"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
 										},
-										"Python":
+										"Python3":
 										{
-											"env":
-											{
-											}
+											"codeintel_scan_extra_dir":
+											[
+												"/Applications/Sublime Text.app/Contents/MacOS",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+											],
+											"codeintel_scan_files_in_project": true,
+											"codeintel_selected_catalogs":
+											[
+											],
+											"python3": "/usr/local/bin/python3.3"
 										}
 									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
 									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
 									"codeintel_max_recursive_dir_depth": 10,
 									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
+									[
+									],
 									"codeintel_scan_files_in_project": true,
 									"codeintel_selected_catalogs":
 									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
 									],
 									"codeintel_snippets": true,
 									"codeintel_syntax_map":
@@ -687,15 +1169,682 @@
 										"Python Django": "Python"
 									},
 									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"codeintel_word_completions": "buffer",
+									"incomplete_sync": null,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 357,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										357,
+										357
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"incomplete_sync": null,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/var/www/jangabanga/app/controllers/products.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 51729,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2319,
+										2319
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 675.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/var/www/jangabanga/app/includes/js/init.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12262,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8281,
+										8281
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"codeintel": true,
+									"codeintel_database_dir": "~/.codeintel",
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Node.js",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_exclude_scopes_from_complete_triggers":
+									[
+										"comment"
+									],
+									"codeintel_language_settings":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_exclude_dir":
+											[
+												"/build/",
+												"/min/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": false,
+											"codeintel_selected_catalogs":
+											[
+												"jQuery"
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 15,
+											"codeintel_scan_exclude_dir":
+											[
+												"/Applications/MAMP/bin/php/php5.5.3/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": true,
+											"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
+										},
+										"Python3":
+										{
+											"codeintel_scan_extra_dir":
+											[
+												"/Applications/Sublime Text.app/Contents/MacOS",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+											],
+											"codeintel_scan_files_in_project": true,
+											"codeintel_selected_catalogs":
+											[
+											],
+											"python3": "/usr/local/bin/python3.3"
+										}
+									},
+									"codeintel_live": true,
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									[
+									],
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"codeintel_word_completions": "buffer",
+									"incomplete_sync": null,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3270.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/var/www/jangabanga/app/includes/js/site.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32889,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7377,
+										7377
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3300.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1161,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												205,
+												212
+											],
+											[
+												505,
+												512
+											],
+											[
+												725,
+												732
+											],
+											[
+												803,
+												810
+											],
+											[
+												1014,
+												1021
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										676,
+										676
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"detect_indentation": false,
+									"incomplete_sync": null,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/var/www/jangabanga/app/themes/default/main.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 62424,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										61954,
+										61954
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 38465.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
 							"type": "text"
 						}
 					]
@@ -707,7 +1856,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 32.0
 			},
 			"layout":
 			{
@@ -732,11 +1881,19 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 98.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"position": "0,1,0,0,0,452,0,1092,480,2806,900",
+			"output.sftp":
+			{
+				"height": 98.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,2806,900",
 			"project": "",
 			"replace":
 			{
@@ -748,6 +1905,46 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"prod",
+						"app/controllers/products.php"
+					],
+					[
+						"site",
+						"app/includes/js/site.js"
+					],
+					[
+						"init",
+						"app/includes/js/init.js"
+					],
+					[
+						"gra",
+						"app/views/products/graph.php"
+					],
+					[
+						"compa",
+						"app/views/products/compare.php"
+					],
+					[
+						"lang",
+						"modules/utils/utils/lang.coffee"
+					],
+					[
+						"_de",
+						"okedel/web/bundles/fwairpublic/css/styles/_dev.scss"
+					],
+					[
+						"",
+						"modules/utils/utils/lang.coffee"
+					],
+					[
+						"monitor",
+						"AirBundle/Controller/MonitoringController.php"
+					],
+					[
+						"asse",
+						"AirBundle/Resources/config/assets.yml"
+					]
 				],
 				"width": 0.0
 			},
@@ -771,16 +1968,16 @@
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 207.0,
-			"status_bar_visible": true,
+			"status_bar_visible": false,
 			"template_settings":
 			{
 			},
-			"window_id": 9,
+			"window_id": 31,
 			"workspace_name": ""
 		}
 	],
@@ -788,6 +1985,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/var/www/okedel.sublime-workspace"
 		]
 	}
 }

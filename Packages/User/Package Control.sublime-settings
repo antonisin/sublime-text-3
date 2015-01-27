@@ -14,17 +14,21 @@
 		"Base16 Color Schemes",
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"DocBlockr",
 		"Git",
 		"GitGutter",
 		"jQuery",
 		"Package Control",
+		"Phpcs",
 		"PhpDoc",
 		"Sass",
+		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"Terminal",
 		"Theme - Afterglow",
 		"Theme - itg.flat",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"WakaTime"
 	]
 }

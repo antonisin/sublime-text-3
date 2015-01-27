@@ -1,0 +1,26 @@
+2015-01-22 17:09:49
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/listeners.py", line 225, in run
+  File "./shutil.py", line 468, in rmtree
+  File "./shutil.py", line 466, in rmtree
+PermissionError: [Errno 1] Operation not permitted: '/tmp/sublime-sftp-browse-1421938195/'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/listeners.py", line 226, in run
+NameError: global name 'WindowsError' is not defined
+2015-01-22 17:09:51
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/listeners.py", line 225, in run
+  File "./shutil.py", line 468, in rmtree
+  File "./shutil.py", line 466, in rmtree
+PermissionError: [Errno 1] Operation not permitted: '/tmp/sublime-sftp-browse-1421938214/'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/listeners.py", line 226, in run
+NameError: global name 'WindowsError' is not defined

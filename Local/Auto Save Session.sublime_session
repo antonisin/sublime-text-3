@@ -1,8 +1,12 @@
 {
 	"folder_history":
 	[
-		"/var/www/okedel",
+		"/var/www/asterisk",
+		"/var/www/jangabanga",
+		"/var/www/guide",
 		"/etc/asterisk",
+		"/var/www/asterisk-droplet",
+		"/var/www/okedel",
 		"/etc/asterisk/manager.d",
 		"/etc/apt/sources.list.d",
 		"/var/www/okedel/web",
@@ -15,7 +19,7 @@
 		"/home/mario/.oh-my-zsh"
 	],
 	"last_version": 3065,
-	"last_window_id": 9,
+	"last_window_id": 34,
 	"log_indexing": false,
 	"settings":
 	{
@@ -26,22 +30,95 @@
 			{
 				"selected_items":
 				[
+					[
+						"FWAir",
+						"FWAirBundle:User"
+					],
+					[
+						"Cha",
+						"ChanSpy"
+					],
+					[
+						"getS",
+						"getSocket〔function〕"
+					],
+					[
+						"get",
+						"getSocket〔function〕"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"re",
+						"ret1	return true"
+					],
+					[
+						"Mon",
+						"MonitoringSubcategoriesCollection"
+					],
+					[
+						"monitoring",
+						"monitoring"
+					],
+					[
+						"Ca",
+						"MonitoringCategoriesCollection"
+					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 105.0,
 				"selected_items":
 				[
+					[
+						"vme",
+						"View: Toggle Menu"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal Key Bindings – Default"
+					],
+					[
+						"termi",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"termin",
+						"Preferences: Terminal Settings – Default"
+					]
 				],
-				"width": 0.0
+				"width": 601.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 126.0,
 				"history":
 				[
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -55,6 +132,118 @@
 			},
 			"file_history":
 			[
+				"/var/www/asterisk/sftp-config.json",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/user/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landingDirections/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landing/add/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/main/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/location/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/airplaneType/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/consolidator/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/country/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/foodType/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/offerComment/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/offerLabel/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/cityCode/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/phone/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/referal/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/change/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/user/profile/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/core/base_controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/user/thankyou/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/subscriber/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/client/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/setting/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/utils/utils/loading.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/footer/lid/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/view/controller.coffee",
+				"/home/mario/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/offer/list_controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/view/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/utils/utils/lang.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/offer/new_controller.coffee",
+				"/var/www/okedel/vendor/apache/log4php/src/main/php/LoggerAppender.php",
+				"/var/www/okedel/LICENSE",
+				"/var/www/okedel/web/bundles/fwairpublic/css/styles/_dev.scss",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/public/css/styles/public.scss",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/_base.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/change/layout.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/change/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/setting.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/history.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/flight.coffee",
+				"/var/www/okedel/web/assetic/js_air_backbone_entities_part_2_adminmenu_1",
+				"/var/www/okedel/web/bundles/fwair/js/assets/backbone-validation-min.js",
+				"/var/www/okedel/web/bundles/fwair/js/assets/2-cocktail.js",
+				"/var/www/okedel/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/KeyCache/ArrayKeyCacheAcceptanceTest.php",
+				"/var/www/okedel/vendor/doctrine/orm/lib/Doctrine/ORM/Query/TreeWalkerAdapter.php",
+				"/var/www/okedel/vendor/doctrine/orm/docs/en/cookbook/implementing-wakeup-or-clone.rst",
+				"/var/www/okedel/vendor/doctrine/orm/docs/en/reference/working-with-associations.rst",
+				"/var/www/okedel/vendor/components/bootstrap/less/wells.less",
+				"/var/www/okedel/src/FW/Air/PublicBundle/EventListener/StatisticListener.php",
+				"/var/www/okedel/src/FW/AirBundle/Controller/MonitoringController.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/empty.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/empty.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/change/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Lang/Lang_RU.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Landing.php",
+				"/var/www/okedel/vendor/kriswallsmith/assetic/src/Assetic/Factory/LazyAssetManager.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/backbone/validation.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/app.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/monitoring.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/MonitoringSubcategory.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/MonitoringCategory.php",
+				"/var/www/okedel/db/max-OfferCollor.sql",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/lid.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/change.hamlc",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Entity/CityCode.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/LandingItem.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Translation/LocationTranslation.php",
+				"/var/www/okedel/app/cache/dev/assetic/assets/f81387969fe2e9a21b48d10fc00a3cf5",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/views/Default/landing.html.haml",
+				"/var/www/okedel/src/FW/AirBundle/Resources/config/assets.yml",
+				"/var/www/okedel/web/assetic/js_air_spec",
+				"/etc/apt/sources.list",
+				"/var/www/html/rezervare.php",
+				"/home/mario/rezervare.html",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/abstract/adminmenu.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Lid.php~",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit/item.hamlc",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/config/assets.yml",
+				"/var/www/okedel/app/config/assetic.yml",
+				"/var/www/okedel/vendor/apache/log4php/src/examples/php/appender_socket_server.php",
+				"/var/www/okedel/app/autoload.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Country.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/_temp/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/_temp/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landing/edit/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit/layout.hamlc",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Controller/SubscriberController.php",
+				"/home/mario/.config/sublime-text-3/Cache/Theme - Afterglow/Afterglow/Widget - Afterglow.stTheme.cache",
+				"/home/mario/.config/sublime-text-3/Installed Packages/Theme - Afterglow.sublime-package",
+				"/home/mario/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/mario/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/mario/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/var/www/okedel/vendor/apache/log4php/INSTALL",
+				"/var/www/okedel/vendor/symfony/symfony/src/Symfony/Component/Process/Tests/ProcessInSigchildEnvironment.php",
+				"/var/www/okedel/vendor/leafo/scssphp/tests/inputs/if_on_null.scss",
 				"/etc/asterisk/sip-primary-configure.conf",
 				"/etc/asterisk/extensions.conf",
 				"/etc/asterisk/sip.conf",
@@ -70,119 +259,20 @@
 				"/etc/asterisk/asterisk.conf",
 				"/etc/asterisk/calendar.conf",
 				"/etc/asterisk/ccss.conf",
-				"/etc/asterisk/cdr_adaptive_odbc.conf",
-				"/etc/asterisk/cdr.conf",
-				"/etc/asterisk/cdr_custom.conf",
-				"/etc/asterisk/cdr_manager.conf",
-				"/etc/asterisk/cdr_mysql.conf",
-				"/etc/asterisk/cdr_odbc.conf",
-				"/etc/asterisk/cdr_pgsql.conf",
-				"/etc/asterisk/cdr_sqlite3_custom.conf",
-				"/etc/asterisk/cdr_syslog.conf",
-				"/etc/asterisk/cdr_tds.conf",
-				"/etc/asterisk/cel.conf",
-				"/etc/asterisk/cel_custom.conf",
-				"/etc/asterisk/cel_odbc.conf",
-				"/etc/asterisk/cel_pgsql.conf",
-				"/etc/asterisk/cel_sqlite3_custom.conf",
-				"/etc/asterisk/cel_tds.conf",
-				"/etc/asterisk/chan_dahdi.conf",
-				"/etc/asterisk/chan_mobile.conf",
-				"/etc/asterisk/chan_ooh323.conf",
-				"/etc/asterisk/cli_aliases.conf",
-				"/etc/asterisk/cli.conf",
-				"/etc/asterisk/cli_permissions.conf",
-				"/etc/asterisk/codecs.conf",
-				"/etc/asterisk/console.conf",
-				"/etc/asterisk/dbsep.conf",
-				"/etc/asterisk/dnsmgr.conf",
-				"/etc/asterisk/dsp.conf",
-				"/etc/asterisk/dundi.conf",
-				"/etc/asterisk/enum.conf",
-				"/etc/asterisk/extconfig.conf",
-				"/etc/asterisk/extensions.ael",
-				"/etc/asterisk/extensions.lua",
-				"/etc/asterisk/extensions_minivm.conf",
-				"/etc/asterisk/features.conf",
-				"/etc/asterisk/festival.conf",
-				"/etc/asterisk/followme.conf",
-				"/etc/asterisk/func_odbc.conf",
-				"/etc/asterisk/gtalk.conf",
-				"/etc/asterisk/h323.conf",
-				"/etc/asterisk/http.conf",
-				"/etc/asterisk/iax.conf",
-				"/etc/asterisk/iaxprov.conf",
-				"/etc/asterisk/indications.conf",
-				"/etc/asterisk/jabber.conf",
-				"/etc/asterisk/jingle.conf",
-				"/etc/asterisk/logger.conf",
-				"/etc/asterisk/manager.conf",
-				"/etc/asterisk/meetme.conf",
-				"/etc/asterisk/mgcp.conf",
-				"/etc/asterisk/minivm.conf",
-				"/etc/asterisk/misdn.conf",
-				"/etc/asterisk/modules.conf",
-				"/etc/asterisk/musiconhold.conf",
-				"/etc/asterisk/muted.conf",
-				"/etc/asterisk/osp.conf",
-				"/etc/asterisk/oss.conf",
-				"/etc/asterisk/phone.conf",
-				"/etc/asterisk/phoneprov.conf",
-				"/etc/asterisk/queuerules.conf",
-				"/etc/asterisk/queues.conf",
-				"/etc/asterisk/res_config_mysql.conf",
-				"/etc/asterisk/res_config_sqlite.conf",
-				"/etc/asterisk/res_curl.conf",
-				"/etc/asterisk/res_fax.conf",
-				"/etc/asterisk/res_ldap.conf",
-				"/etc/asterisk/res_odbc.conf",
-				"/etc/asterisk/res_pgsql.conf",
-				"/etc/asterisk/res_pktccops.conf",
-				"/etc/asterisk/res_snmp.conf",
-				"/etc/asterisk/res_stun_monitor.conf",
-				"/etc/asterisk/rpt.conf",
-				"/etc/asterisk/rtp.conf",
-				"/etc/asterisk/say.conf",
-				"/etc/asterisk/sip_notify.conf",
-				"/etc/asterisk/skinny.conf",
-				"/etc/asterisk/sla.conf",
-				"/etc/asterisk/smdi.conf",
-				"/etc/asterisk/telcordia-1.adsi",
-				"/etc/asterisk/udptl.conf",
-				"/etc/asterisk/unistim.conf",
-				"/etc/asterisk/usbradio.conf",
-				"/etc/asterisk/users.conf",
-				"/etc/asterisk/voicemail.conf",
-				"/etc/asterisk/vpb.conf",
-				"/usr/local/bin/cake",
-				"/usr/local/bin/coffee",
-				"/usr/local/bin/composer",
-				"/usr/local/bin/haml-coffee",
-				"/usr/local/bin/n",
-				"/usr/local/bin/node",
-				"/usr/local/bin/npm",
-				"/usr/local/bin/set-mon",
-				"/var/www/okedel/composer.json",
-				"/var/www/okedel/composer.lock",
-				"/var/www/okedel/LICENSE",
-				"/var/www/okedel/README.md",
-				"/var/www/okedel/UPGRADE-2.2.md",
-				"/var/www/okedel/UPGRADE-2.3.md",
-				"/var/www/okedel/UPGRADE-2.4.md",
-				"/var/www/okedel/UPGRADE.md",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/global.coffee",
-				"/root/.ssh/id_rsa.pub",
-				"/etc/apt/sources.list"
+				"/etc/asterisk/cdr_adaptive_odbc.conf"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
+					"/var/www/okedel/src/",
+					"/var/www/okedel/src",
+					"/var/www/okedel"
 				]
 			},
 			"find_state":
@@ -190,6 +280,79 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"statusAction",
+					"setPort",
+					"Method set",
+					"Method get",
+					"\n     ",
+					"timeout",
+					"Timeout",
+					"timeout",
+					"Timeout",
+					"timeout",
+					"View",
+					"view",
+					" model.save",
+					"user:profile:thanks:fetch",
+					"loadingDialog",
+					"argumnets",
+					"LoadingController",
+					"error",
+					"Net",
+					"booking:offers:add",
+					"offer:add",
+					"offer-add",
+					"and",
+					"then return",
+					"footer:lid:send:offers",
+					"click:send:offers",
+					"send-offers",
+					".board_box .board_direct table .center",
+					".notClick",
+					"not(",
+					"Subcategory",
+					"subcategory",
+					"del",
+					"destr",
+					"usere",
+					"удал",
+					"@model",
+					"newMonitoringCategory",
+					"данн",
+					"данные",
+					"sale:create:error:morethanoneselected",
+					"notify:error",
+					"model",
+					"admin:monitoring:subcategories:collection",
+					"admin:monitoring:subcategory:model",
+					"admin:monitoring:subcategory:add'",
+					"admin:monitoring:subcategory:add",
+					"admin:monitoring:subcategory:model",
+					"categoryModel",
+					"onetomany",
+					"localizeddate",
+					"Отзыв успешно добавлен",
+					"EditCategory",
+					"Edit",
+					"EditCategory",
+					"Category",
+					"EditCategory",
+					"editCategory",
+					"Subcategory",
+					"MonitoringCategory",
+					"Category",
+					"EditCategory",
+					"CategoryEdit",
+					"Edit",
+					"Category",
+					"model",
+					"List",
+					"Country",
+					"Role",
+					"List",
+					"Category",
+					"category",
+					"categories",
 					"sip_notify",
 					"sip_notify.conf",
 					"/etc/asterisk/sip_notify.conf",
@@ -238,16 +401,24 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 32.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 98.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"output.sftp":
+			{
+				"height": 189.0
+			},
 			"replace":
 			{
-				"height": 42.0
+				"height": 68.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -255,6 +426,26 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"lang",
+						"modules/utils/utils/lang.coffee"
+					],
+					[
+						"_de",
+						"okedel/web/bundles/fwairpublic/css/styles/_dev.scss"
+					],
+					[
+						"",
+						"modules/utils/utils/lang.coffee"
+					],
+					[
+						"monitor",
+						"AirBundle/Controller/MonitoringController.php"
+					],
+					[
+						"asse",
+						"AirBundle/Resources/config/assets.yml"
+					]
 				],
 				"width": 0.0
 			},
@@ -274,12 +465,12 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 343.0,
-			"status_bar_visible": true,
+			"side_bar_width": 207.0,
+			"status_bar_visible": false,
 			"template_settings":
 			{
 			}
@@ -293,79 +484,96 @@
 			{
 				"selected_items":
 				[
+					[
+						"FWAir",
+						"FWAirBundle:User"
+					],
+					[
+						"Cha",
+						"ChanSpy"
+					],
+					[
+						"getS",
+						"getSocket〔function〕"
+					],
+					[
+						"get",
+						"getSocket〔function〕"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"re",
+						"ret1	return true"
+					],
+					[
+						"Mon",
+						"MonitoringSubcategoriesCollection"
+					],
+					[
+						"monitoring",
+						"monitoring"
+					],
+					[
+						"Ca",
+						"MonitoringCategoriesCollection"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "okedel/src/FW/AirBundle/Resources/public/js/entities/abstract/adminmenu.coffee",
+					"file": "okedel/src/FW/AirBundle/Controller/MonitoringController.php",
 					"settings":
 					{
-						"buffer_size": 2262,
+						"buffer_size": 7936,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/app.coffee",
+					"contents": "Action:Originate\nChannel:SIP/user2\nApplication:ChanSpy \nData:SIP/user1\nAsync:True\n\nAction: Originate\nChannel: SIP/user2\nApplication: ChanSpy\nData: SIP/user1\nAsync:True\n\n\nAction: Originate\nChannel: SIP/user2\nApplication: ChanSpy\nData: SIP/user1\nAsync:True\n\n\n-------------------------------------------------------------------------------------------------\nAction: Originate\nChannel: Local/555@supervoser\nApplication: ChanSpy\nData: SIP/user1\nAsync:True\n\nAction: Originate\nChannel: Local/supervisor@555\nApplication: ChanSpy\nData: SIP/user1\nAsync:True\n-------------------------------------------------------------------------------------------------\nAction: Originate\nChannel: SIP/user2\nApplication: ChanSpy\nData: SIP/user1,BS\nAsync:True\n\nB - bidirection\n\nAction: Originate\nChannel: SIP/user2\nApplication: ChanSpy\nData: SIP/user1,W\nAsync:True",
 					"settings":
 					{
-						"buffer_size": 667,
+						"buffer_size": 838,
+						"line_ending": "Unix",
+						"name": "Action:Originate"
+					}
+				},
+				{
+					"file": "asterisk/sip-primary-configure.conf",
+					"settings":
+					{
+						"buffer_size": 1106,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/controller.coffee",
+					"file": "asterisk/extension-primary-configure.conf",
 					"settings":
 					{
-						"buffer_size": 1587,
+						"buffer_size": 204,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/view.coffee",
+					"file": "okedel/src/FW/Air/PublicBundle/Controller/DefaultController.php",
 					"settings":
 					{
-						"buffer_size": 1442,
+						"buffer_size": 8817,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/list/controller.coffee",
+					"file": "okedel/src/FW/AirBundle/Helper/AsteriskManagerHelper.php",
 					"settings":
 					{
-						"buffer_size": 1439,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "okedel/src/FW/AirBundle/Entity/MonitoringCategory.php",
-					"settings":
-					{
-						"buffer_size": 1104,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "okedel/src/FW/AirBundle/Entity/Translation/LocationTranslation.php",
-					"settings":
-					{
-						"buffer_size": 486,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "okedel/src/FW/AirBundle/Entity/Country.php",
-					"settings":
-					{
-						"buffer_size": 2615,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/list/view.coffee",
-					"settings":
-					{
-						"buffer_size": 1244,
+						"buffer_size": 7973,
 						"line_ending": "Unix"
 					}
 				}
@@ -373,11 +581,15 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 174.0,
+				"height": 105.0,
 				"selected_items":
 				[
 					[
-						"install",
+						"vme",
+						"View: Toggle Menu"
+					],
+					[
+						"ins",
 						"Package Control: Install Package"
 					],
 					[
@@ -385,16 +597,12 @@
 						"Package Control: Install Package"
 					],
 					[
-						"vme",
-						"View: Toggle Menu"
+						"install",
+						"Package Control: Install Package"
 					],
 					[
 						"git",
 						"Git: Status"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"terminal",
@@ -409,7 +617,7 @@
 						"Preferences: Terminal Settings – Default"
 					]
 				],
-				"width": 610.0
+				"width": 601.0
 			},
 			"console":
 			{
@@ -430,19 +638,137 @@
 			},
 			"expanded_folders":
 			[
-				"/var/www/okedel/src/FW/AirBundle",
-				"/var/www/okedel/src/FW/AirBundle/Entity",
-				"/var/www/okedel/src/FW/AirBundle/Entity/Translation",
 				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/main/list",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/list"
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/lid",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/lid/list",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/sale",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/sale/list",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/lid",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/sale",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/sale/list",
+				"/var/www/asterisk"
 			],
 			"file_history":
 			[
-				"/var/www/okedel/src/FW/AirBundle/Entity/MonitoringCategory.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/sale/list/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/sale/list/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/sale/list/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/sale/list/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/sale/list/layout.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/offerComment/edit/controller.coffee",
+				"/etc/asterisk/manager.conf",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/lid/list/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/lid/list/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/lid/list/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/sale/list/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/lid/list/layout.hamlc",
+				"/var/www/okedel/app/config/routing.yml",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/lid/list/controller.coffee",
+				"/var/www/asterisk/manager.conf",
+				"/var/www/asterisk/extension-primary-configure.conf",
+				"/var/www/asterisk/sftp-config.json",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/user/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landingDirections/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landing/add/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/main/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/location/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/airplaneType/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/consolidator/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/country/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/foodType/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/offerLabel/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/cityCode/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/phone/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/engine/referal/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/change/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/user/profile/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/core/base_controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/user/thankyou/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/subscriber/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/client/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/setting/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/utils/utils/loading.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/footer/lid/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/view/controller.coffee",
 				"/home/mario/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/offer/list_controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/view/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/utils/utils/lang.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/booking/offer/new_controller.coffee",
+				"/var/www/okedel/vendor/apache/log4php/src/main/php/LoggerAppender.php",
+				"/var/www/okedel/LICENSE",
+				"/var/www/okedel/web/bundles/fwairpublic/css/styles/_dev.scss",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/public/css/styles/public.scss",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/_base.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/change/layout.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/change/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/setting.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/history.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/flight.coffee",
+				"/var/www/okedel/web/assetic/js_air_backbone_entities_part_2_adminmenu_1",
+				"/var/www/okedel/web/bundles/fwair/js/assets/backbone-validation-min.js",
+				"/var/www/okedel/web/bundles/fwair/js/assets/2-cocktail.js",
+				"/var/www/okedel/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/KeyCache/ArrayKeyCacheAcceptanceTest.php",
+				"/var/www/okedel/vendor/doctrine/orm/lib/Doctrine/ORM/Query/TreeWalkerAdapter.php",
+				"/var/www/okedel/vendor/doctrine/orm/docs/en/cookbook/implementing-wakeup-or-clone.rst",
+				"/var/www/okedel/vendor/doctrine/orm/docs/en/reference/working-with-associations.rst",
+				"/var/www/okedel/vendor/components/bootstrap/less/wells.less",
+				"/var/www/okedel/src/FW/Air/PublicBundle/EventListener/StatisticListener.php",
+				"/var/www/okedel/src/FW/AirBundle/Controller/MonitoringController.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/empty.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/empty.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/subcategory/change/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Lang/Lang_RU.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Landing.php",
+				"/var/www/okedel/vendor/kriswallsmith/assetic/src/Assetic/Factory/LazyAssetManager.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/backbone/validation.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/change/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/app.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/monitoring.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/MonitoringSubcategory.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/MonitoringCategory.php",
+				"/var/www/okedel/db/max-OfferCollor.sql",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/lid.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/change.hamlc",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Entity/CityCode.php",
+				"/var/www/okedel/src/FW/AirBundle/Entity/LandingItem.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/list.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/subcategory/item.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Translation/LocationTranslation.php",
+				"/var/www/okedel/app/cache/dev/assetic/assets/f81387969fe2e9a21b48d10fc00a3cf5",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/views/Default/landing.html.haml",
+				"/var/www/okedel/src/FW/AirBundle/Resources/config/assets.yml",
+				"/var/www/okedel/web/assetic/js_air_spec",
+				"/etc/apt/sources.list",
+				"/var/www/html/rezervare.php",
+				"/home/mario/rezervare.html",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/entities/abstract/adminmenu.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Lid.php~",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit.hamlc",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit/item.hamlc",
+				"/var/www/okedel/src/FW/Air/PublicBundle/Resources/config/assets.yml",
+				"/var/www/okedel/app/config/assetic.yml",
+				"/var/www/okedel/vendor/apache/log4php/src/examples/php/appender_socket_server.php",
+				"/var/www/okedel/app/autoload.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Entity/Country.php",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/category/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/_temp/view.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/_temp/controller.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/modules/admin/landing/edit/layout.coffee",
+				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/templates/admin/monitoring/category/edit/layout.hamlc",
 				"/var/www/okedel/src/FW/Air/PublicBundle/Controller/SubscriberController.php",
 				"/home/mario/.config/sublime-text-3/Cache/Theme - Afterglow/Afterglow/Widget - Afterglow.stTheme.cache",
 				"/home/mario/.config/sublime-text-3/Installed Packages/Theme - Afterglow.sublime-package",
@@ -452,133 +778,20 @@
 				"/var/www/okedel/vendor/apache/log4php/INSTALL",
 				"/var/www/okedel/vendor/symfony/symfony/src/Symfony/Component/Process/Tests/ProcessInSigchildEnvironment.php",
 				"/var/www/okedel/vendor/leafo/scssphp/tests/inputs/if_on_null.scss",
-				"/etc/asterisk/sip-primary-configure.conf",
-				"/etc/asterisk/extensions.conf",
-				"/etc/asterisk/sip.conf",
-				"/home/mario/mario/asterisk_bkp/sip.conf",
-				"/etc/asterisk/adsi.conf",
-				"/etc/asterisk/agents.conf",
-				"/etc/asterisk/ais.conf",
-				"/etc/asterisk/alarmreceiver.conf",
-				"/etc/asterisk/alsa.conf",
-				"/etc/asterisk/amd.conf",
-				"/etc/asterisk/app_mysql.conf",
-				"/etc/asterisk/asterisk.adsi",
-				"/etc/asterisk/asterisk.conf",
-				"/etc/asterisk/calendar.conf",
-				"/etc/asterisk/ccss.conf",
-				"/etc/asterisk/cdr_adaptive_odbc.conf",
-				"/etc/asterisk/cdr.conf",
-				"/etc/asterisk/cdr_custom.conf",
-				"/etc/asterisk/cdr_manager.conf",
-				"/etc/asterisk/cdr_mysql.conf",
-				"/etc/asterisk/cdr_odbc.conf",
-				"/etc/asterisk/cdr_pgsql.conf",
-				"/etc/asterisk/cdr_sqlite3_custom.conf",
-				"/etc/asterisk/cdr_syslog.conf",
-				"/etc/asterisk/cdr_tds.conf",
-				"/etc/asterisk/cel.conf",
-				"/etc/asterisk/cel_custom.conf",
-				"/etc/asterisk/cel_odbc.conf",
-				"/etc/asterisk/cel_pgsql.conf",
-				"/etc/asterisk/cel_sqlite3_custom.conf",
-				"/etc/asterisk/cel_tds.conf",
-				"/etc/asterisk/chan_dahdi.conf",
-				"/etc/asterisk/chan_mobile.conf",
-				"/etc/asterisk/chan_ooh323.conf",
-				"/etc/asterisk/cli_aliases.conf",
-				"/etc/asterisk/cli.conf",
-				"/etc/asterisk/cli_permissions.conf",
-				"/etc/asterisk/codecs.conf",
-				"/etc/asterisk/console.conf",
-				"/etc/asterisk/dbsep.conf",
-				"/etc/asterisk/dnsmgr.conf",
-				"/etc/asterisk/dsp.conf",
-				"/etc/asterisk/dundi.conf",
-				"/etc/asterisk/enum.conf",
-				"/etc/asterisk/extconfig.conf",
-				"/etc/asterisk/extensions.ael",
-				"/etc/asterisk/extensions.lua",
-				"/etc/asterisk/extensions_minivm.conf",
-				"/etc/asterisk/features.conf",
-				"/etc/asterisk/festival.conf",
-				"/etc/asterisk/followme.conf",
-				"/etc/asterisk/func_odbc.conf",
-				"/etc/asterisk/gtalk.conf",
-				"/etc/asterisk/h323.conf",
-				"/etc/asterisk/http.conf",
-				"/etc/asterisk/iax.conf",
-				"/etc/asterisk/iaxprov.conf",
-				"/etc/asterisk/indications.conf",
-				"/etc/asterisk/jabber.conf",
-				"/etc/asterisk/jingle.conf",
-				"/etc/asterisk/logger.conf",
-				"/etc/asterisk/manager.conf",
-				"/etc/asterisk/meetme.conf",
-				"/etc/asterisk/mgcp.conf",
-				"/etc/asterisk/minivm.conf",
-				"/etc/asterisk/misdn.conf",
-				"/etc/asterisk/modules.conf",
-				"/etc/asterisk/musiconhold.conf",
-				"/etc/asterisk/muted.conf",
-				"/etc/asterisk/osp.conf",
-				"/etc/asterisk/oss.conf",
-				"/etc/asterisk/phone.conf",
-				"/etc/asterisk/phoneprov.conf",
-				"/etc/asterisk/queuerules.conf",
-				"/etc/asterisk/queues.conf",
-				"/etc/asterisk/res_config_mysql.conf",
-				"/etc/asterisk/res_config_sqlite.conf",
-				"/etc/asterisk/res_curl.conf",
-				"/etc/asterisk/res_fax.conf",
-				"/etc/asterisk/res_ldap.conf",
-				"/etc/asterisk/res_odbc.conf",
-				"/etc/asterisk/res_pgsql.conf",
-				"/etc/asterisk/res_pktccops.conf",
-				"/etc/asterisk/res_snmp.conf",
-				"/etc/asterisk/res_stun_monitor.conf",
-				"/etc/asterisk/rpt.conf",
-				"/etc/asterisk/rtp.conf",
-				"/etc/asterisk/say.conf",
-				"/etc/asterisk/sip_notify.conf",
-				"/etc/asterisk/skinny.conf",
-				"/etc/asterisk/sla.conf",
-				"/etc/asterisk/smdi.conf",
-				"/etc/asterisk/telcordia-1.adsi",
-				"/etc/asterisk/udptl.conf",
-				"/etc/asterisk/unistim.conf",
-				"/etc/asterisk/usbradio.conf",
-				"/etc/asterisk/users.conf",
-				"/etc/asterisk/voicemail.conf",
-				"/etc/asterisk/vpb.conf",
-				"/usr/local/bin/cake",
-				"/usr/local/bin/coffee",
-				"/usr/local/bin/composer",
-				"/usr/local/bin/haml-coffee",
-				"/usr/local/bin/n",
-				"/usr/local/bin/node",
-				"/usr/local/bin/npm",
-				"/usr/local/bin/set-mon",
-				"/var/www/okedel/composer.json",
-				"/var/www/okedel/composer.lock",
-				"/var/www/okedel/LICENSE",
-				"/var/www/okedel/README.md",
-				"/var/www/okedel/UPGRADE-2.2.md",
-				"/var/www/okedel/UPGRADE-2.3.md",
-				"/var/www/okedel/UPGRADE-2.4.md",
-				"/var/www/okedel/UPGRADE.md",
-				"/var/www/okedel/src/FW/AirBundle/Resources/public/js/config/global.coffee",
-				"/root/.ssh/id_rsa.pub"
+				"/etc/asterisk/sip-primary-configure.conf"
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
 				"height": 93.0,
 				"where_history":
 				[
+					"/var/www/okedel/src/",
+					"/var/www/okedel/src",
+					"/var/www/okedel"
 				]
 			},
 			"find_state":
@@ -586,6 +799,76 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"lidTableItemHide",
+					"toggle:search",
+					"dt-search",
+					"statusAction",
+					"setPort",
+					"Method set",
+					"Method get",
+					"\n     ",
+					"timeout",
+					"Timeout",
+					"timeout",
+					"Timeout",
+					"timeout",
+					"View",
+					"view",
+					" model.save",
+					"user:profile:thanks:fetch",
+					"loadingDialog",
+					"argumnets",
+					"LoadingController",
+					"error",
+					"Net",
+					"booking:offers:add",
+					"offer:add",
+					"offer-add",
+					"and",
+					"then return",
+					"footer:lid:send:offers",
+					"click:send:offers",
+					"send-offers",
+					".board_box .board_direct table .center",
+					".notClick",
+					"not(",
+					"Subcategory",
+					"subcategory",
+					"del",
+					"destr",
+					"usere",
+					"удал",
+					"@model",
+					"newMonitoringCategory",
+					"данн",
+					"данные",
+					"sale:create:error:morethanoneselected",
+					"notify:error",
+					"model",
+					"admin:monitoring:subcategories:collection",
+					"admin:monitoring:subcategory:model",
+					"admin:monitoring:subcategory:add'",
+					"admin:monitoring:subcategory:add",
+					"admin:monitoring:subcategory:model",
+					"categoryModel",
+					"onetomany",
+					"localizeddate",
+					"Отзыв успешно добавлен",
+					"EditCategory",
+					"Edit",
+					"EditCategory",
+					"Category",
+					"EditCategory",
+					"editCategory",
+					"Subcategory",
+					"MonitoringCategory",
+					"Category",
+					"EditCategory",
+					"CategoryEdit",
+					"Edit",
+					"Category",
+					"model",
+					"List",
 					"Country",
 					"Role",
 					"List",
@@ -637,71 +920,32 @@
 			"groups":
 			[
 				{
-					"selected": 6,
+					"selected": 5,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "okedel/src/FW/AirBundle/Resources/public/js/entities/abstract/adminmenu.coffee",
+							"file": "okedel/src/FW/AirBundle/Controller/MonitoringController.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2262,
+								"buffer_size": 7936,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2170,
-										2170
+										2926,
+										2926
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
+									"auto_complete": false,
 									"bh_regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -712,301 +956,132 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": -0.0,
-								"translation.y": 135.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/app.coffee",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 667,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										405,
-										405
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
 									],
 									"codeintel": true,
-									"codeintel_config":
+									"codeintel_database_dir": "~/.codeintel",
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Node.js",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_exclude_scopes_from_complete_triggers":
+									[
+										"comment"
+									],
+									"codeintel_language_settings":
 									{
 										"JavaScript":
 										{
 											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
+											"codeintel_scan_exclude_dir":
 											[
+												"/build/",
+												"/min/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": false,
+											"codeintel_selected_catalogs":
+											[
+												"jQuery"
 											]
 										},
 										"PHP":
 										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
+											"codeintel_max_recursive_dir_depth": 15,
+											"codeintel_scan_exclude_dir":
 											[
-											]
+												"/Applications/MAMP/bin/php/php5.5.3/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": true,
+											"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
 										},
-										"Python":
+										"Python3":
 										{
-											"env":
-											{
-											}
+											"codeintel_scan_extra_dir":
+											[
+												"/Applications/Sublime Text.app/Contents/MacOS",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+											],
+											"codeintel_scan_files_in_project": true,
+											"codeintel_selected_catalogs":
+											[
+											],
+											"python3": "/usr/local/bin/python3.3"
 										}
 									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
 									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
 									"codeintel_max_recursive_dir_depth": 10,
 									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
+									[
+									],
 									"codeintel_scan_files_in_project": true,
 									"codeintel_selected_catalogs":
 									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
 									],
 									"codeintel_snippets": true,
 									"codeintel_syntax_map":
@@ -1014,659 +1089,44 @@
 										"Python Django": "Python"
 									},
 									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+									"codeintel_word_completions": "buffer",
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/controller.coffee",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1587,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1587,
-										1587
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/edit/view.coffee",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1442,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1442,
-										1442
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/list/controller.coffee",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1439,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										259,
-										259
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1326.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 3,
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "okedel/src/FW/AirBundle/Entity/MonitoringCategory.php",
+							"buffer": 1,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1104,
+								"buffer_size": 838,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										150,
-										150
+										646,
+										646
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"auto_name": "Action:Originate",
 									"bh_regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1677,302 +1137,132 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"open_with_edit": true,
-									"sublime_auto_complete": true,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "okedel/src/FW/AirBundle/Entity/Translation/LocationTranslation.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 486,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										483,
-										483
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
 									],
 									"codeintel": true,
-									"codeintel_config":
+									"codeintel_database_dir": "~/.codeintel",
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Node.js",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_exclude_scopes_from_complete_triggers":
+									[
+										"comment"
+									],
+									"codeintel_language_settings":
 									{
 										"JavaScript":
 										{
 											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
+											"codeintel_scan_exclude_dir":
 											[
+												"/build/",
+												"/min/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": false,
+											"codeintel_selected_catalogs":
+											[
+												"jQuery"
 											]
 										},
 										"PHP":
 										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
+											"codeintel_max_recursive_dir_depth": 15,
+											"codeintel_scan_exclude_dir":
 											[
-											]
+												"/Applications/MAMP/bin/php/php5.5.3/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": true,
+											"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
 										},
-										"Python":
+										"Python3":
 										{
-											"env":
-											{
-											}
+											"codeintel_scan_extra_dir":
+											[
+												"/Applications/Sublime Text.app/Contents/MacOS",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+											],
+											"codeintel_scan_files_in_project": true,
+											"codeintel_selected_catalogs":
+											[
+											],
+											"python3": "/usr/local/bin/python3.3"
 										}
 									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
 									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
 									"codeintel_max_recursive_dir_depth": 10,
 									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
+									[
+									],
 									"codeintel_scan_files_in_project": true,
 									"codeintel_selected_catalogs":
 									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
 									],
 									"codeintel_snippets": true,
 									"codeintel_syntax_map":
@@ -1980,25 +1270,24 @@
 										"Python Django": "Python"
 									},
 									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"codeintel_word_completions": "buffer",
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 7,
-							"file": "okedel/src/FW/AirBundle/Entity/Country.php",
-							"semi_transient": false,
+							"buffer": 2,
+							"file": "asterisk/sip-primary-configure.conf",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 2615,
+								"buffer_size": 1106,
 								"regions":
 								{
 								},
@@ -2014,46 +1303,6 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -2064,189 +1313,87 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
 									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 315.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 8,
-							"file": "okedel/src/FW/AirBundle/Resources/public/js/modules/admin/monitoring/list/view.coffee",
+							"buffer": 3,
+							"file": "asterisk/extension-primary-configure.conf",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1244,
+								"buffer_size": 204,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1244,
-										1244
+										200,
+										200
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
+									"auto_complete": true,
 									"bh_regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -2257,108 +1404,223 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "okedel/src/FW/Air/PublicBundle/Controller/DefaultController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8817,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2249,
+										2249
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
 									],
 									"codeintel": true,
-									"codeintel_config":
+									"codeintel_database_dir": "~/.codeintel",
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Node.js",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_exclude_scopes_from_complete_triggers":
+									[
+										"comment"
+									],
+									"codeintel_language_settings":
 									{
 										"JavaScript":
 										{
 											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
+											"codeintel_scan_exclude_dir":
 											[
+												"/build/",
+												"/min/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": false,
+											"codeintel_selected_catalogs":
+											[
+												"jQuery"
 											]
 										},
 										"PHP":
 										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
+											"codeintel_max_recursive_dir_depth": 15,
+											"codeintel_scan_exclude_dir":
 											[
-											]
+												"/Applications/MAMP/bin/php/php5.5.3/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": true,
+											"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
 										},
-										"Python":
+										"Python3":
 										{
-											"env":
-											{
-											}
+											"codeintel_scan_extra_dir":
+											[
+												"/Applications/Sublime Text.app/Contents/MacOS",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+											],
+											"codeintel_scan_files_in_project": true,
+											"codeintel_selected_catalogs":
+											[
+											],
+											"python3": "/usr/local/bin/python3.3"
 										}
 									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
 									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
 									"codeintel_max_recursive_dir_depth": 10,
 									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
+									[
+									],
 									"codeintel_scan_files_in_project": true,
 									"codeintel_selected_catalogs":
 									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
 									],
 									"codeintel_snippets": true,
 									"codeintel_syntax_map":
@@ -2366,16 +1628,200 @@
 										"Python Django": "Python"
 									},
 									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
-									"tab_size": 2,
+									"codeintel_word_completions": "buffer",
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 819.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "okedel/src/FW/AirBundle/Helper/AsteriskManagerHelper.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7973,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7455,
+										7455
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"codeintel": true,
+									"codeintel_database_dir": "~/.codeintel",
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Node.js",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_exclude_scopes_from_complete_triggers":
+									[
+										"comment"
+									],
+									"codeintel_language_settings":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_exclude_dir":
+											[
+												"/build/",
+												"/min/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": false,
+											"codeintel_selected_catalogs":
+											[
+												"jQuery"
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 15,
+											"codeintel_scan_exclude_dir":
+											[
+												"/Applications/MAMP/bin/php/php5.5.3/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": true,
+											"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
+										},
+										"Python3":
+										{
+											"codeintel_scan_extra_dir":
+											[
+												"/Applications/Sublime Text.app/Contents/MacOS",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+											],
+											"codeintel_scan_files_in_project": true,
+											"codeintel_selected_catalogs":
+											[
+											],
+											"python3": "/usr/local/bin/python3.3"
+										}
+									},
+									"codeintel_live": true,
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									[
+									],
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"codeintel_word_completions": "buffer",
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3588.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -2412,15 +1858,23 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 98.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"position": "0,1,0,0,0,0,0,0,0,2806,900",
+			"output.sftp":
+			{
+				"height": 189.0
+			},
+			"position": "0,1,0,0,0,0,0,640,480,2806,900",
 			"project": "okedel.sublime-project",
 			"replace":
 			{
-				"height": 42.0
+				"height": 68.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2428,6 +1882,26 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"",
+						"Action:Originate"
+					],
+					[
+						"lang",
+						"modules/utils/utils/lang.coffee"
+					],
+					[
+						"_de",
+						"okedel/web/bundles/fwairpublic/css/styles/_dev.scss"
+					],
+					[
+						"monitor",
+						"AirBundle/Controller/MonitoringController.php"
+					],
+					[
+						"asse",
+						"AirBundle/Resources/config/assets.yml"
+					]
 				],
 				"width": 0.0
 			},
@@ -2460,7 +1934,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 9,
+			"window_id": 32,
 			"workspace_name": "/var/www/okedel.sublime-workspace"
 		}
 	],
